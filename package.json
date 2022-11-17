@@ -16,7 +16,7 @@
     ]
   },
   "dependencies": {
-    "abi-decoder": "1.0.9",
+    "abi-decoder": "1.2.0",
     "bcrypt-nodejs": "0.0.3",
     "bip39": "2.4.0",
     "body-parser": "~1.15.2",
