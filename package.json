@@ -21,7 +21,7 @@
     "bip39": "2.4.0",
     "body-parser": "~1.15.2",
     "bull": "3.3.4",
-    "debug": "~2.2.0",
+    "debug": "~3.1.0",
     "dotenv": "4.0.0",
     "ethereumjs-wallet": "0.6.0",
     "express": "~4.14.0",
