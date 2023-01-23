@@ -59,7 +59,7 @@
     "typemoq": "2.0.1",
     "mocha-prepare": "0.1.0",
     "chai": "3.5.0",
-    "chai-http": "3.0.0",
+    "chai-http": "4.3.0",
     "mocha": "3.2.0",
     "nodemon": "^1.11.0",
     "nyc": "10.0.0",
